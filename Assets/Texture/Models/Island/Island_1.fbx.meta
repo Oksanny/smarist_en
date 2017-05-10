@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 2761e7c0f915900439e8a796e5fa883f
+timeCreated: 1478682507
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Enviroment_Ground
+    100002: Enviroment_House
+    100004: Enviroment_Palm1
+    100006: Enviroment_Palm2
+    100008: Enviroment_Palm3
+    100010: Enviroment_Palm4
+    100012: Enviroment_Palm5
+    100014: Enviroment_Palm6
+    100016: Enviroment_Stone
+    100018: Enviroment_Stone1
+    100020: Enviroment_Stone2
+    100022: Enviroment_Stone3
+    100024: Enviroment_Stone4
+    100026: Enviroment_Stone5
+    100028: Enviroment_Tree1
+    100030: Enviroment_Tree2
+    100032: Enviroment_Tree3
+    100034: Enviroment_Tree_Cactus
+    100036: Enviroment_Tree_Cactus1
+    100038: Enviroment_Tree_House
+    100040: Enviroment_Tree_Original
+    100042: Enviroment_TreeFlower
+    100044: Enviroment_TreeViolet
+    100046: Enviroment_TreeYellow1
+    100048: Enviroment_TreeYellow2
+    100050: Enviroment_TreeYellow3
+    100052: //RootNode
+    400000: Enviroment_Ground
+    400002: Enviroment_House
+    400004: Enviroment_Palm1
+    400006: Enviroment_Palm2
+    400008: Enviroment_Palm3
+    400010: Enviroment_Palm4
+    400012: Enviroment_Palm5
+    400014: Enviroment_Palm6
+    400016: Enviroment_Stone
+    400018: Enviroment_Stone1
+    400020: Enviroment_Stone2
+    400022: Enviroment_Stone3
+    400024: Enviroment_Stone4
+    400026: Enviroment_Stone5
+    400028: Enviroment_Tree1
+    400030: Enviroment_Tree2
+    400032: Enviroment_Tree3
+    400034: Enviroment_Tree_Cactus
+    400036: Enviroment_Tree_Cactus1
+    400038: Enviroment_Tree_House
+    400040: Enviroment_Tree_Original
+    400042: Enviroment_TreeFlower
+    400044: Enviroment_TreeViolet
+    400046: Enviroment_TreeYellow1
+    400048: Enviroment_TreeYellow2
+    400050: Enviroment_TreeYellow3
+    400052: //RootNode
+    2300000: Enviroment_Ground
+    2300002: Enviroment_House
+    2300004: Enviroment_Palm1
+    2300006: Enviroment_Palm2
+    2300008: Enviroment_Palm3
+    2300010: Enviroment_Palm4
+    2300012: Enviroment_Palm5
+    2300014: Enviroment_Palm6
+    2300016: Enviroment_Stone
+    2300018: Enviroment_Stone1
+    2300020: Enviroment_Stone2
+    2300022: Enviroment_Stone3
+    2300024: Enviroment_Stone4
+    2300026: Enviroment_Stone5
+    2300028: Enviroment_Tree1
+    2300030: Enviroment_Tree2
+    2300032: Enviroment_Tree3
+    2300034: Enviroment_Tree_Cactus
+    2300036: Enviroment_Tree_Cactus1
+    2300038: Enviroment_Tree_House
+    2300040: Enviroment_Tree_Original
+    2300042: Enviroment_TreeFlower
+    2300044: Enviroment_TreeViolet
+    2300046: Enviroment_TreeYellow1
+    2300048: Enviroment_TreeYellow2
+    2300050: Enviroment_TreeYellow3
+    3300000: Enviroment_Ground
+    3300002: Enviroment_House
+    3300004: Enviroment_Palm1
+    3300006: Enviroment_Palm2
+    3300008: Enviroment_Palm3
+    3300010: Enviroment_Palm4
+    3300012: Enviroment_Palm5
+    3300014: Enviroment_Palm6
+    3300016: Enviroment_Stone
+    3300018: Enviroment_Stone1
+    3300020: Enviroment_Stone2
+    3300022: Enviroment_Stone3
+    3300024: Enviroment_Stone4
+    3300026: Enviroment_Stone5
+    3300028: Enviroment_Tree1
+    3300030: Enviroment_Tree2
+    3300032: Enviroment_Tree3
+    3300034: Enviroment_Tree_Cactus
+    3300036: Enviroment_Tree_Cactus1
+    3300038: Enviroment_Tree_House
+    3300040: Enviroment_Tree_Original
+    3300042: Enviroment_TreeFlower
+    3300044: Enviroment_TreeViolet
+    3300046: Enviroment_TreeYellow1
+    3300048: Enviroment_TreeYellow2
+    3300050: Enviroment_TreeYellow3
+    4300000: Enviroment_Palm1
+    4300002: Enviroment_Tree_Original
+    4300004: Enviroment_Tree_Cactus1
+    4300006: Enviroment_Tree2
+    4300008: Enviroment_TreeFlower
+    4300010: Enviroment_TreeYellow2
+    4300012: Enviroment_Tree3
+    4300014: Enviroment_Tree1
+    4300016: Enviroment_Tree_House
+    4300018: Enviroment_House
+    4300020: Enviroment_TreeYellow3
+    4300022: Enviroment_TreeYellow1
+    4300024: Enviroment_Palm2
+    4300026: Enviroment_TreeViolet
+    4300028: Enviroment_Tree_Cactus
+    4300030: Enviroment_Palm4
+    4300032: Enviroment_Stone
+    4300034: Enviroment_Ground
+    4300036: Enviroment_Stone1
+    4300038: Enviroment_Stone2
+    4300040: Enviroment_Stone3
+    4300042: Enviroment_Stone4
+    4300044: Enviroment_Stone5
+    4300046: Enviroment_Palm5
+    4300048: Enviroment_Palm3
+    4300050: Enviroment_Palm6
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
