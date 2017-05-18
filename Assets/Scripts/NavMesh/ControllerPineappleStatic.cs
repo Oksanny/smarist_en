@@ -30,7 +30,11 @@ public class ControllerPineappleStatic : MonoBehaviour {
     {
         if (DataLevel.Instance.CurrentState==Mark.ar_camera)
         {
-            animator.SetTrigger("Present");
+			Debug.Log("play sound");
+			animator.Play ("Win");
+			StartCoroutine("StartPresent");
+			AudioSource clip = gameObject.GetComponent<AudioSource> ();
+			clip.Play ();
         }
        
     }
@@ -41,7 +45,8 @@ public class ControllerPineappleStatic : MonoBehaviour {
         yield return new WaitForSeconds(1f);
         if (DataLevel.Instance.CurrentState == Mark.ar_camera)
         {
-            animator.SetTrigger("Present");
+			animator.Play ("Idle");
+          //  animator.SetTrigger("Present");
         }
 
     }

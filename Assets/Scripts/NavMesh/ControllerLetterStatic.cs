@@ -15,7 +15,7 @@ public class ControllerLetterStatic : MonoBehaviour {
     {
         if (DataLevel.Instance.CurrentState == Mark.ar_camera)
         {
-            animator.SetTrigger("Present");
+			animator.Play("Idle");
         }
     }
 	// Use this for initialization
@@ -31,8 +31,22 @@ public class ControllerLetterStatic : MonoBehaviour {
     {
         if (DataLevel.Instance.CurrentState == Mark.ar_camera)
         {
-            animator.SetTrigger("Present");
+			//animator.Play ("Jump");
+			StartCoroutine("StartPresentLetter");
+			AudioSource clip = gameObject.GetComponent<AudioSource> ();
+			clip.Play ();
         }
        
     }
+	IEnumerator StartPresentLetter()
+	{
+		//  Debug.Log("WaitForSeconds_2");
+		yield return new WaitForSeconds(3f);
+		if (DataLevel.Instance.CurrentState == Mark.ar_camera)
+		{
+			//animator.Play ("Idle");
+			//  animator.SetTrigger("Present");
+		}
+
+	}
 }

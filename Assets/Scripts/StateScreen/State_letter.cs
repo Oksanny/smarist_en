@@ -12,6 +12,7 @@ internal class State_letter : State
 
     private void StateScreen()
     {
+		Screen.orientation = ScreenOrientation.Portrait;
 		DataLevel.Instance.Hand.SetActive (true);
 		DataLevel.Instance.Hand2.SetActive(false);
 		DataLevel.Instance.Hand.GetComponent<Animator> ().enabled = true;
